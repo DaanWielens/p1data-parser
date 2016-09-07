@@ -1,0 +1,65 @@
+{
+  "parser":
+  [
+    {
+      "colname": "Datetime (YYMMDDhhmmss)",
+      "prefix": "0-0:1.0.0(",
+      "suffix": "S)"
+    },
+    {
+      "colname": "Tar1 to cli (kWh)",
+      "prefix": "1-0:1.8.1(",
+      "suffix": "*kWh)"
+    },
+    {
+      "colname": "Tar2 to cli (kWh)",
+      "prefix": "1-0:1.8.2(",
+      "suffix": "*kWh)"
+    },
+    {
+      "colname": "Tar1 by cli (kWh)",
+      "prefix": "1-0:2.8.1(",
+      "suffix": "*kWh)"
+    },
+    {
+      "colname": "Tar2 by cli (kWh)",
+      "prefix": "1-0:2.8.2(",
+      "suffix": "*kWh)"
+    },
+    {
+      "colname": "Tariff indicator",
+      "prefix": "0-0:96.14.0(",
+      "suffix": ")"
+    },
+    {
+      "colname": "Power delivered (kW)",
+      "prefix": "1-0:1.7.0(",
+      "suffix": "*kW)"
+    },
+    {
+      "colname": "Power received (kW)",
+      "prefix": "1-0:2.7.0(",
+      "suffix": "*kW)"
+    },
+    {
+      "colname": "Instantaneous current (A)",
+      "prefix": "1-0:31.7.0(",
+      "suffix": "*A)"
+    },
+    {
+      "colname": "Active power delivered (kW)",
+      "prefix": "1-0:21.7.0(",
+      "suffix": "*kW)"
+    },
+    {
+      "colname": "Active power received (kW)",
+      "prefix": "1-0:22.7.0(",
+      "suffix": "*kW)"
+    },
+    {
+      "colname": "Gas (hourly) (m3)",
+      "prefix": "0-1:24.2.1(",
+      "suffix": "*m3)"
+    }
+  ]
+}
