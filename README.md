@@ -7,7 +7,7 @@ The script can convert a single logfile:
 ```
 $ ./smart_raw.py -f input_file
 ```
-But it can also convert all files in a folder
+It can also convert all files in a folder:
 ```
 $ ./smart_raw.py -d input_dir
 ```
