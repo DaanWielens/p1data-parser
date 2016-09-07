@@ -1,6 +1,6 @@
 # p1data-parser
 
-Parser to convert raw P1 data (from a logfile source) into readable CSV files
+Python parser to convert raw P1 data (from a logfile source) into readable CSV files
 
 ### Usage
 The script can convert a single logfile:
